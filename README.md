@@ -33,7 +33,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## 📈 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/mirza268](https://www.linkedin.com/in/mirza268)
+- 💼 LinkedIn: [linkedin.com/in/zubair ahmed][(https://www.linkedin.com/in/zubair-ahmed-978b26296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))]
 - 🌐 Portfolio: [mirza268.behance](https://www.behance.net/gallery/226586737/Buraq-Perfumes-Ecom-Website-%28HTMLCSSJS-Flask%29) 
 
 Thanks for visiting my profile! 🚀
