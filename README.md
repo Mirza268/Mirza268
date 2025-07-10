@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## 📂 My GitHub Stats
 
-![Mirza268's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirza268&show_icons=true&theme=tokyonight)
+![Mirza268's GitHub stats](https://www.linkedin.com/in/zubair-ahmed-978b26296)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirza268&layout=compact&theme=tokyonight)
 
 ---
